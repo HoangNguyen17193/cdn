@@ -4,11 +4,11 @@
     "image": "https://drive.google.com/uc?id=18981CqFNpC3VC9B4i54RAP7JbfAf8LpZ",
     "attributes": [
       {
-        "trait_value": "skill A",
+        "trait_type": "skill A",
         "value": "buy the deep"
       },
       {
-        "trait_value": "skill B",
+        "trait_type": "skill B",
         "value": "sell the peak"
       }
     ]

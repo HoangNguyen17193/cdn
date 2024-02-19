@@ -12,9 +12,13 @@
       "value": "sell the peak"
     },
     {
-      "display_type": "number",
       "trait_type": "hp",
       "value": "80"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "generation",
+      "value": 2
     },
     {
       "display_type": "date",

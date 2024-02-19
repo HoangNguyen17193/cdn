@@ -13,7 +13,7 @@
     },
     {
       "trait_type": "hp",
-      "value": "80"
+      "value": 80
     },
     {
       "display_type": "number",

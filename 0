@@ -1,29 +1,5 @@
 {
   "name": "Tino",
   "description": "DJ Tino",
-  "image": "https://drive.google.com/uc?id=18981CqFNpC3VC9B4i54RAP7JbfAf8LpZ",
-  "attributes": [
-    {
-      "trait_type": "skill A",
-      "value": "buy the deep"
-    },
-    {
-      "trait_type": "skill B",
-      "value": "sell the peak"
-    },
-    {
-      "trait_type": "hp",
-      "value": 80
-    },
-    {
-      "display_type": "number",
-      "trait_type": "generation",
-      "value": 2
-    },
-    {
-      "display_type": "date",
-      "trait_type": "birthdate",
-      "value": "1869351755000"
-    }
-  ]
+  "image": "https://drive.google.com/uc?id=18981CqFNpC3VC9B4i54RAP7JbfAf8LpZ"
 }

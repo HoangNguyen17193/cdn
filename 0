@@ -1,5 +1,150 @@
 {
-  "name": "Tino",
-  "description": "DJ Tino",
-  "image": "https://drive.google.com/uc?id=18981CqFNpC3VC9B4i54RAP7JbfAf8LpZ"
+  "name": "Chicken #70",
+  "nickname": "",
+  "description": "",
+  "image": "https://sabong-saga-images.s3.ap-southeast-1.amazonaws.com/70.png",
+  "imageHash": "560a4ef8c6ff829777fd2b68e291dce4b511ab34cbb5e6cd18e3095d25401ce2",
+  "edition": 70,
+  "attributes": [
+    {
+      "trait_type": "Feet",
+      "value": "Pula",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "Starjeatl",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Chibidei",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Slenduh",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Silog",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Beak",
+      "value": "Blade Spire",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Comb",
+      "value": "Killua",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "Gen 0",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grit Attack",
+      "value": 0,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Grit Defense",
+      "value": 0,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Grit Speed",
+      "value": 0,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Grit Health",
+      "value": 0,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Parent 1",
+      "value": 0,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Parent 2",
+      "value": 0,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Breed Count",
+      "value": 0,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Rooster",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Innate Attack",
+      "value": 40,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Innate Defense",
+      "value": 36,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Innate Speed",
+      "value": 37,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Innate Health",
+      "value": 7,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Instinct",
+      "value": "Blazing",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Birthdate",
+      "value": 1737098321,
+      "display_type": "date"
+    },
+    {
+      "trait_type": "Legendary Count",
+      "value": 0,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Daily Feathers",
+      "value": 15,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Color",
+      "value": "G1",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Genes",
+      "value": "904061306090707010607010807060908110d090b100c131208060512120f09000000280000002400000025000000070000000e000000000000000000000000",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Level",
+      "value": 1,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Genesis",
+      "display_type": "string"
+    }
+  ]
 }

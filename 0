@@ -1,8 +1,23 @@
 {
-  "name": "Chicken #70",
-  "nickname": "",
-  "description": "我们的长枪有龙血的威压，我们的铠甲有龙鳞的坚固，我们将继承龙的力量与荣耀，誓死守护这片土地",
-  "image": "https://sabong-saga-images.s3.ap-southeast-1.amazonaws.com/70.png",
-  "imageHash": "560a4ef8c6ff829777fd2b68e291dce4b511ab34cbb5e6cd18e3095d25401ce2",
-  "edition": 70
+  "name": "Chubby Fox #622",
+  "description": "Chubby Foxes is a unique NFT collection featuring adorable, chubby foxes full of personality and vibrant details. Chubby Foxes includes a royalty system that rewards Chubby Foxes stakers, ensuring ongoing value and support for the community. Join the Chubby Foxes family and be part of a growing, rewarding ecosystem.",
+  "image": "https://bafybeick2bqin633gjn47ticw4wdmefkhfidm7lmev2r4e3gkkmnkdiymy.ipfs.w3s.link/chubby_fox_0622.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Radial rays"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Clown"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black hair"
+    }
+  ]
 }
